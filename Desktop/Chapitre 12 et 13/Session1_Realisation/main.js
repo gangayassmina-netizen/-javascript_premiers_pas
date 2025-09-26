@@ -12,7 +12,7 @@ const autoformation = [
   ];
   
   console.log("--");
-  console.log("--");
+  
   //compteur de bonne reponse
   let score = 0;
 //   - score هو متغيّر (variable) كنستعملوه باش نحسبو عدد الأجوبة الصحيحة اللي جاوبهم المستخدم.
