@@ -10,6 +10,7 @@ const autoformation = [
     { name: "7.1 - Bases et logique PHP", code: "C7" },
     { name: "8.1 - Découvrir React", code: "C8" }
   ];
+  console.log("--");
   
   //compteur de bonne reponse
   let score = 0;
